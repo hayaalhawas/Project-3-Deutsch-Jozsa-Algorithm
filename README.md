@@ -35,4 +35,6 @@ dj_problem_oracle(4)
 Ensure that you provide detailed explanations and comments at each step, making it easy for others to understand your work. Use clear language and include any assumptions made during the implementation. Good luck!
 
 ### Reference
-> OPENQASM 3 : https://arxiv.org/pdf/2104.14722.pdf
+> OPENQASM 3 Paper: https://arxiv.org/pdf/2104.14722.pdf
+> 
+> IBM Documentation: https://docs.quantum.ibm.com/api/qiskit/qasm3
