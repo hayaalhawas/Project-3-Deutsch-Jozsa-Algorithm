@@ -10,7 +10,7 @@ In this task, you are required to implement a balanced oracle using OpenQasm 3 f
 3. Clearly explain the design choices and the reasoning behind them in your code comments.
 4. Test the oracle using various inputs to verify its balanced behavior.
 
-## Task 2: Signihttps://arxiv.org/pdf/2104.14722.pdfng Up for IBM Quantum Lab and Using Python Notebook
+## Task 2:  Signing Up for IBM Quantum Lab and Using Python Notebook
 
 In this task, you will sign up for IBM Quantum Lab and utilize a Python notebook for the given problem.
 
